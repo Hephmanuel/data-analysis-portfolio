@@ -1,0 +1,4 @@
+COUNT(reservation_status),reservation_status,Lead_Time
+25552,Canceled,107
+74027,Check-Out,67
+1169,No-Show,51
